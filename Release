@@ -1,0 +1,8 @@
+Origin: <Unc0ver Repository>
+Label: <unc0ver.de >
+Suite: stable
+Version: 1.0
+Codename: cydia-ios
+Architectures: iphoneos-arm
+Components: main
+Description: <Unc0ver Repository>
